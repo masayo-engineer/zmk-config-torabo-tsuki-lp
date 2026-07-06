@@ -40,10 +40,6 @@
     tapping-term-ms = <150>;
 };
 
-&pointing_listener {
-    scroll-layers = <5>;
-};
-
 / {
     macros {
         to_layer_0: to_layer_0 {
